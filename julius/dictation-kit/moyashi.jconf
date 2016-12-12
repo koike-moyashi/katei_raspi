@@ -1,0 +1,13 @@
+-w robo.dic       #単語辞書ファイル
+-v model/lang_m/bccwj.60k.htkdic  #N-gram、または文法用の単語辞書ファイルを指定する
+-h model/phone_m/jnas-tri-3k16-gid.binhmm #使用するHMM定義ファイル
+-hlist model/phone_m/logicalTri   #HMMlistファイルを指定する
+-n 5        #n個の文仮説数が見つかるまで検索を行う
+-output 1     #見つかったN-best候補のうち、結果として出力する個数
+-input mic      #マイク使用
+-input oss      #オープンサウンドシステム使用
+-rejectshort 1000  #検出された入力が閾値以下なら棄却
+-charconv euc-jp utf8 #入出力エンコード指定(内部euc-jp, 出力utf-8)
+-lv 1500    #入力の振幅レベルの閾値(0~32767)
+-module
+-nostrip

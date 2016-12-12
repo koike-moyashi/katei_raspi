@@ -1,0 +1,52 @@
+gomi	a
+gomi	i
+gomi	u
+gomi	e
+gomi	o
+gomi	k a
+gomi	k i
+gomi	k u
+gomi	k e
+gomi	k o
+gomi	s a
+gomi	sh i
+gomi	s u
+gomi	s e
+gomi	s o
+gomi	t a
+gomi	ch i
+gomi	ts u
+gomi	t e
+gomi	t o
+gomi	n a
+gomi	n i
+gomi	n u
+gomi	n e
+gomi	n o
+gomi	h a
+gomi	h i
+gomi	f u
+gomi	h e
+gomi	h o
+gomi	m a
+gomi	m i
+gomi	m u
+gomi	m e
+gomi	m o
+gomi	y a
+gomi	y u
+gomi	y o
+gomi	 N
+gomi	r o b o: o N g a k u k e sh i t e
+gomi	r o b o: sh a sh i N t o r a n a i d e
+gomi	r o b o: sh a sh i N
+gomi	sh a sh i N
+gomi	r o b o:
+gomi	r o b o: o N g a k u ts u k e n a i d e
+music_on	r o b o: o N g a k u ts u k e t e
+music_off	r o b o: sh i z u k a n i sh i t e
+music_next	r o b o: ts u g i n o o N g a k u
+take_photo	r o b o: sh a sh i N t o q t e k u d a s a i
+<sp>	sp
+<s>	silB
+</s>	silE
